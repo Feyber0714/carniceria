@@ -1,0 +1,5 @@
+{
+  "name": "Copy of carniceria don fito",
+  "description": "A dynamic inventory management system for butcher shops that calculates meat cuts based on animal weight, tracks real-time stock, and manages sales orders.",
+  "requestFramePermissions": []
+}
